@@ -1,0 +1,3 @@
+[submodule "kinjin"]
+	path = kinjin
+	url = https://github.com/hyld3/kinjin
